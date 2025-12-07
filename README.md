@@ -1,0 +1,2 @@
+# React-JSX-_Babel_React_Components_Props_Explained_from_Scratch
+In this video, we explore React from first principles, so you understand why things work, not just how to code. You’ll learn what JSX really is, why Babel is needed, and how components and props work. We break down the full React flow—from JSX to React elements, Virtual DOM, and the real DOM—so you get a complete picture of how React works under .
